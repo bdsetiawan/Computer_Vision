@@ -1,6 +1,3 @@
-Here’s a polished GitHub repository description / blurb you can use for **bdsetiawan / Computer_Vision**:
-
----
 
 ## 📷 Computer Vision Projects by bdsetiawan
 
@@ -27,8 +24,3 @@ Each example is designed for hands-on use: feel free to clone and experiment, ad
 * Use as reference or learning resource
 * Contributions, enhancements, or additional use cases are welcome
 
----
-
-If you like, I can also help you craft a more formal “README” (with badges, installation instructions, usage examples, etc.) for this repo — would you like me to do that?
-
-[1]: https://github.com/bdsetiawan/Computer_Vision "GitHub - bdsetiawan/Computer_Vision"
